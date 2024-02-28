@@ -180,7 +180,7 @@ th {
 }
 
 .it-bold {
-    /* font-weight: bold; */
+    font-weight: bold;
 }
 
 .it-light-gary {
@@ -442,6 +442,7 @@ li {
 }
 
 .logo-small-title {
+    font-size: 18px;
     color: #808080;
 }
 
